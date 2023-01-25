@@ -2,7 +2,7 @@ LARAVEL 9 - Datatables - Toast Notif
 ## Installation
 1. Clone this project
     ```bash
-    git clone https://github.com/zuramai/laravel-mazer
+    git clone https://github.com/aldmf26/Laravel9-auth-datatables-toast.git
     cd laravel-mazer
     ```
 2. Install dependencies
